@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoLetsTrack</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="average_view_count">Average View Count</string>
+    <string name="average_answer_count">Average Answer Count</string>
+    <string name="zero">0.0</string>
+    <string name="search_question">Search Question / Owner</string>
+</resources>
